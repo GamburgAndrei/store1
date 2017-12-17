@@ -41,6 +41,7 @@ class Alert extends \yii\bootstrap\Widget
      * @var array the options for rendering the close button tag.
      * Array will be passed to [[\yii\bootstrap\Alert::closeButton]].
      */
+    /*Тест для коммита*/
     public $closeButton = [];
 
 
